@@ -7,7 +7,7 @@
 
 # Site settings
 title: GY.C
-brief-intro: 一只浪迹江湖的猫
+brief-intro: 专业搬砖几十年
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://langkemaoxin.github.io" # the base hostname & protocol for your site
 
@@ -22,7 +22,7 @@ zhihu_username:
 linkedIn_username:  
 dribbble_username:
 
-description_footer: 本站记录我十年浪迹生涯
+description_footer:  
 
 # comments
 # two ways to comment, only choose one, and use your own short name
