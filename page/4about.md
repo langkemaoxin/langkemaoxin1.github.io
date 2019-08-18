@@ -12,8 +12,4 @@ type: page
 ## 联系我
 
 * GitHub：[langkemaoxin](https://github.com/langkemaoxin)
-* email：2363613998@qq.com 
- 
-## Comments
-
-{% include comments.html %}
+* email：2363613998@qq.com   
